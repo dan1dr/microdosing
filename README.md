@@ -4,7 +4,7 @@ Microdosing psychedelics is the repeated use of small doses of, for example, lys
 [[2]](https://pubmed.ncbi.nlm.nih.gov/30604183/)
 [[3]](https://www.sciencedirect.com/science/article/abs/pii/S095539591930307X)
 [[Therapeutic use]](https://journals.sagepub.com/doi/full/10.1177/2045125320950567)
-[[Systematic use]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211023)
+[[Systematic study]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211023)
 
 
 __Objective:__
