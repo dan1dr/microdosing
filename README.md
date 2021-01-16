@@ -7,7 +7,7 @@ Microdosing psychedelics is the repeated use of small doses of, for example, lys
 [[Systematic use]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211023)
 
 
-__Objective__ 
+__Objective:__
 This project aims to carry out an exploratory data analysis on a survey of a real-world sample of microdosers, which includes subjective microdosing benefits and challenges (MDBCs) and the subjective importance of each outcome.
 
 <p align="center">
