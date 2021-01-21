@@ -8,7 +8,7 @@ Microdosing psychedelics is the repeated use of small doses of, for example, lys
 
 
 __Objective:__
-This project aims to carry out an exploratory data analysis on a survey of a real-world sample of microdosers, which includes subjective microdosing benefits and challenges (MDBCs) and the subjective importance of each outcome.
+This project aims to carry out an exploratory data analysis on a survey of a real-world sample of microdosers, which includes subjective microdosing benefits and challenges, followed by the subjective importance of each outcome.
 
 <p align="center">
   <img src="https://psytechglobal.com/wp-content/uploads/2020/11/havn-life-chief-psychedelics-officer-ivan-casselman-740x383.jpg" width="500"">
