@@ -16,4 +16,4 @@ This project aims to carry out an exploratory data analysis on a survey of a rea
   <img src="https://psytechglobal.com/wp-content/uploads/2020/11/havn-life-chief-psychedelics-officer-ivan-casselman-740x383.jpg" width="500"">
 </p>
 
-This project has been possible thanks to the work of [[Anderson, T., Petranker, R., & Dinh-Williams, L.-A. (2020, October 28). Demography of Microdosing Community Survey. Retrieved from osf.io/g5cwy]](https://osf.io/g5cwy/)
+This project has been possible thanks to the work of [Anderson, T., Petranker, R., & Dinh-Williams, L.-A. (2020, October 28). Demography of Microdosing Community Survey. Retrieved from osf.io/g5cwy](https://osf.io/g5cwy/)
