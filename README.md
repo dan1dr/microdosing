@@ -1,6 +1,6 @@
 # Microdosing Psychedelics study
 
-This is the thesis for my master in Data Science taught at Kschool.
+This is my thesis for the master in Data Science taught at Kschool.
 
 Microdosing psychedelics is the repeated use of small doses of, for example, lysergic acid diethylamide (LSD) and Psilocybin Mushrooms, typically for a few weeks into your weekly routine for enhanced levels of creativity, energy, focus, and improved relational skills. Recent studies on full-dose psychedelic psychotherapy reveal promising benefits for mental well-being, especially for depression and end-of-life anxiety. While full-dose therapies include perception-distorting properties, microdosing may provide complementary clinical benefits using lower-risk, non-hallucinogenic doses. Despite the popular and scientific attention in recent years, little scientific knowledge is available to back this. There has been limited reporting on adverse events associated with microdosing, and the experiences of microdosers in community samples have not been categorized. [[Benefits]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6617883/)
 [[2]](https://pubmed.ncbi.nlm.nih.gov/30604183/)
@@ -16,3 +16,4 @@ This project aims to carry out an exploratory data analysis on a survey of a rea
   <img src="https://psytechglobal.com/wp-content/uploads/2020/11/havn-life-chief-psychedelics-officer-ivan-casselman-740x383.jpg" width="500"">
 </p>
 
+This project has been possible thanks to the work of [[Anderson, T., Petranker, R., & Dinh-Williams, L.-A. (2020, October 28). Demography of Microdosing Community Survey. Retrieved from osf.io/g5cwy]](https://osf.io/g5cwy/)
