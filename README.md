@@ -21,7 +21,7 @@ Please, follow the steps listed below if you want to replicate the work.
 ## 2. Instructions for running
 
 1. Import the file [requirements.txt](requirements.txt) into your local environment for ensuring the right working.
-2. Open the folder [notebooks](https://github.com/dan1dr/microdosing/tree/main/notebooks) and follow the numbering for running the Jupyter notebooks (notebooks not numbered are just for quick exploration).
+2. Open the folder [notebooks](https://github.com/dan1dr/microdosing/tree/main/notebooks) and follow the numbering for running the Jupyter notebooks.
 3. You can also consult the [report](docs/Report-Microdosing_Psychedelics.pdf) along the exploration, which describes the main results obtained during the analysis and a **essential** introduction to the topic of psychedelics.
 4. The folder [front](https://github.com/dan1dr/microdosing/tree/main/front) contains the link for a visualization created with Tableau.
 
