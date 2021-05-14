@@ -1,6 +1,6 @@
 # Microdosing Psychedelics: Exploratory Data Analysis 🍄
 
-This repository contains the project developed for my Master in Data Science. The project is available to be read [here](docs/questions.pdf). 
+This repository contains the project developed for my Master in Data Science. The project is available to be read [here](docs/Report-Microdosing_psychedelics). 
 
 
 ## 1. Project structure
