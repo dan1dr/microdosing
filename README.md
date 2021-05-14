@@ -1,28 +1,27 @@
-# Microdosing Psychedelics: Exploratory Data Analysis
+# Microdosing Psychedelics: Exploratory Data Analysis 🍄
 
 This repository contains the project developed for my Master in Data Science. The project is available to be read [here](docs/questions.pdf). 
+![shrooms](https://user-images.githubusercontent.com/71450225/118313443-05a9d180-b4f3-11eb-8b09-f4e7f6e1230e.png)
 
-In case you want to replicate the work, 
 
-
-## 1. Project description
+## 1. Project structure
 
 The projects is divided by the following folders:
 
 | Folder | Description |
 | --- | --- |
-| data | Contains the dataset for the project, as well as two other files transformed throught the code |
-| docs | The report and all the complementary docs related to the project |
-| front | A .twb file for interactive use in Tableau|
-| img | Images used in the report and in the notebooks |
-| notebooks | Jupyter notebooks with the code |
+| [data](https://github.com/dan1dr/microdosing/tree/main/data) | Contains the dataset for the project, as well as two other files transformed throught the code |
+| [docs](https://github.com/dan1dr/microdosing/tree/main/docs) | The report and all the complementary docs related to the project |
+| [front](https://github.com/dan1dr/microdosing/tree/main/docs) | A dashboard for interactive use in Tableau|
+| [img](https://github.com/dan1dr/microdosing/tree/main/img) | Images used in the report and in the notebooks |
+| [notebooks](https://github.com/dan1dr/microdosing/tree/main/notebooks) | Jupyter notebooks with the code |
 
 
 Please, follow the steps listed below if you want to replicate the work.
 
 ## 2. Instructions for running
 
-1. Import the file [requirements.txt](requirements.txt) into your work environment for ensuring the right packages versions.
+1. Import the file [requirements.txt](requirements.txt) into your local environment for ensuring the right working.
 2. Open the folder [notebooks][https://github.com/dan1dr/microdosing/tree/main/notebooks] and follow the numbering for running the Jupyter notebooks (notebooks not numbered are just for quick exploration).
 3. You can also consult the report along the exploration, which describes the main results obtained during the analysis and the **essential** introduction to the topic of psychedelics.
 4. The folder [front] contains a dashboard visualization created with Tableau for an interactive use with data.
