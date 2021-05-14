@@ -1,8 +1,7 @@
 # Microdosing Psychedelics: Exploratory Data Analysis 🍄
 
 This repository contains the project developed for my Master in Data Science. The project is available to be read [here](docs/questions.pdf). 
-
-In case you want to replicate the work, 
+![shrooms](https://user-images.githubusercontent.com/71450225/118313443-05a9d180-b4f3-11eb-8b09-f4e7f6e1230e.png)
 
 
 ## 1. Project structure
