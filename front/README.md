@@ -1,4 +1,4 @@
-Use this [link](https://github.com/dan1dr/microdosing/tree/main/front) to access Tableau Public and interact with the visualizations
+Use this [link](https://public.tableau.com/profile/daniel7193#!/) to access Tableau Public and interact with the visualizations.
 
 The images from those visualizations are also uploaded in [img](https://github.com/dan1dr/microdosing/tree/main/img), those are:
 - [Dashboard-Demography.png](https://github.com/dan1dr/microdosing/blob/main/img/Dashboard-Demography.png)
