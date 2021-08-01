@@ -2,7 +2,7 @@
 
 This repository contains the project developed for my Master in Data Science.
 
-The project report is available to be read [here](docs/Report-Microdosing_Psychedelics.pdf).
+The project report is available to be read [here](docs/Report_Microdosing_Psychedelics.pdf).
 
 You can also check the slides made for final presentation [here](docs/Slides.pdf).
 
